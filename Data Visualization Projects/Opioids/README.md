@@ -1,4 +1,4 @@
-
+# Slides
 
 ![first chart](Opioid_related_deaths_0.png)
 
@@ -26,7 +26,9 @@
 
 
 
+# Code
 
+## R
 This is the code for the opioid related deaths. This was prepared in the programming language R.
 
 ```R
@@ -228,7 +230,7 @@ ggplot(gender_counts, aes(fill=Gender, y=freq, x=Year)) +
     legend.title = element_blank())
 
 ```
-
+## Python
 This is the code for the opioid related deaths. This was prepared in the programming language Python.
 ```python
 #!/usr/bin/env python
