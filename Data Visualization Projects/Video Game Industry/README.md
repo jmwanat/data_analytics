@@ -2,6 +2,9 @@
 ![first chart](Assignment_1_Wanat_line_v3.png)
 
 ```R
+# Jennifer Wanat, Assignment 1
+# MSDS 455
+
 # install and load needed packages
 install.packages("readxl")
 install.packages("lattice")
