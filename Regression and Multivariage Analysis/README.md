@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This course focused on statistical modeling as a three step process: 1) exploratory data analysis (EDA), 2) model identification, and 3) model validation. Weekly assignments utilized a housing data set obtained from the Ames, IA Assessor's Office and assembled by Dr. Dean De Cock at Truman State University. These processes were used to build models to estimate home values.
+This course focused on statistical modeling as a three step process: 1) exploratory data analysis (EDA), 2) model identification, and 3) model validation. Weekly assignments for the EDA and regression models utilized a housing data set obtained from the Ames, IA Assessor's Office and assembled by Dr. Dean De Cock at Truman State University. These processes were used to build models to estimate home values.
 
 In addition to linear regression, the concepts of principal component analysis (PCA), factor analysis, and cluster analysis were taught.
 
