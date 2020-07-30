@@ -10,4 +10,4 @@ The data was prepared for analysis in which missing values were imputed, variabl
 
 This report utilized R Markdown, in which the document text and code are prepared in the same notebook interface. 
 
-![first chart](Unit1_Moneyball_Wanat_Final.pdf)
+![first assignment](Unit1_Moneyball_Wanat_Final.pdf)
