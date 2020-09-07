@@ -41,7 +41,7 @@ the dashboard and be offered a customized program designed to reduce their risk.
 The dataset from Kaggle was modified by a team member so that each patient record reflected a facility type (nursing home, hospital, inpatient rehabilitation center, urgent care, 
 veteran facility). An analysis on cardiovascular disease by facility type was conducted. 
 
-![first chart](Cardio_facility_type_count_sorted_inside.pdf)
+![first chart](Cardio_facility_type_count_sorted_inside.png)
 
 By evaluating the facility location of patients, the stage of cardiovascular disease can be generalized, and programming efforts may be adjusted. Patients at nursing homes may 
 have early or late stage cardiovascular disease, either pre- or post-cardiovascular event, but are generally not under an immediate disease event such as heart attack or stroke. 
