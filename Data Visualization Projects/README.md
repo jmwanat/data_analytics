@@ -16,3 +16,4 @@ Spatial – Cook County ME Opioid Related Deaths
 The final project was a team effort to create a browser-based presentation of at least twelve data visualizations. The topic selected by my group was the opioid epidemic. I created slides based on Naloxone Administration by First Responders and Urban Opioid Related Deaths in the Chicago Area. For the Naloxone data, I utilized a database available for public use through the National EMS Information System (NEMSIS). For the opioid related deaths in the Chicago area, I utilized case archive data made available through the Cook County Medical Examiner’s Office.
 
 I used Python and R programming languages throughout the course.
+
