@@ -9,11 +9,11 @@ There were five individual assignments in which a data type (categorial, hierarc
 summarized on one slide. 
 
 The five data types and their respective visualizations are:
-Temporal – Video Game Industry
-Categorical – One Star Michelin Restaurants
-Hierarchical – SpaceX Missions
-Relational – The Nobel Prize
-Spatial – Cook County ME Opioid Related Deaths
+1. Temporal – Video Game Industry
+2. Categorical – One Star Michelin Restaurants
+3. Hierarchical – SpaceX Missions
+4. Relational – The Nobel Prize
+5. Spatial – Cook County ME Opioid Related Deaths
 
 The final project was a team effort to create a browser-based presentation of at least twelve data visualizations. The topic selected by my group was the opioid epidemic. I created
 slides based on Naloxone Administration by First Responders and Urban Opioid Related Deaths in the Chicago Area. For the Naloxone data, I utilized a database available for public 
