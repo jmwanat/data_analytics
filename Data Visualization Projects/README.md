@@ -1,9 +1,6 @@
 ## Data Visualization
 
-The objectives of the course were to:
-
-Design and program data visualizations using either R or Python to illustrate data-based categorical, hierarchical, relational, temporal and spatial insights. These visualizations 
-were presented on a summary slide, along with important insights and recommendations. Best practices for data display, color, typography, composition and narrative were emphasized.
+The objectives of the course were to: design and program data visualizations using either R or Python to illustrate data-based categorical, hierarchical, relational, temporal and spatial insights. These visualizations were presented on a summary slide, along with important insights and recommendations. Best practices for data display, color, typography, composition and narrative were emphasized.
 
 I used Python and R programming languages throughout the course.
 
