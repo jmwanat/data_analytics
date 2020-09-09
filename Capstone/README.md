@@ -1,9 +1,7 @@
 ## Capstone
 
 This was a team effort to create a final project that demonstrates mastery of previous course goals and apply in developing a practical solution and implementation plan. The topic 
-selected by my group was cardiovascular disease. We utilized a data set available from [Kaggle]( https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
-
-That contained 70,000 records with 12 attributes: (1) age; (2) height; (3) weight; (4) gender; (5) systolic blood pressure; (6) diastolic blood pressure; (7) cholesterol; 
+selected by my group was cardiovascular disease. We utilized a data set available from [Kaggle]( https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) that contained 70,000 records with 12 attributes: (1) age; (2) height; (3) weight; (4) gender; (5) systolic blood pressure; (6) diastolic blood pressure; (7) cholesterol; 
 (8) glucose; (9) smoking; (10) alcohol intake; (11) physical activity; (12) presence or absence of cardiovascular disease.
 
 ### Predictive Modeling
